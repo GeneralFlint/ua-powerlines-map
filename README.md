@@ -9,7 +9,7 @@ on the browser side (without a server).
 
 ## Connection with a developer
 
-[![Telegram](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://telegram.me/developer_support_bot)
+[![Telegram](https://img.shields.io/badge/Telegram-Group-blue.svg?logo=telegram)](https://t.me/PR0DEV)
 
 Created to power GeoJSON in [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js),
 but can be useful in other visualization platforms
